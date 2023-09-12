@@ -1,0 +1,20 @@
+.body {
+  background-color: #dac3c3;
+}
+
+.container {
+  background-color: #e8d2d2;
+  padding: 20px;
+  text-align: center;
+  height: 500px;
+}
+
+.heading {
+  font-size: 24px;
+  color: #333;
+}
+
+.description {
+  font-size: 16px;
+  color: #666;
+}
